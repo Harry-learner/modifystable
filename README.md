@@ -1,4 +1,5 @@
-# Stable Diffusion web UI
+# Clone Stable Diffusion web UI
+# I dont have CopyRight of it
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](txt2img_Screenshot.png)
